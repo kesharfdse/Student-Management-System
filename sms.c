@@ -19,7 +19,6 @@ struct sinfo {
 	int cid[10];
 } st[55];
 
-// Function to add the student
 void add_student()
 {
 
