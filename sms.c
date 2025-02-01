@@ -32,7 +32,7 @@ void add_student() {
     i++;
 }
 
-// Function to find the student by roll number
+// Function to find the student by roll no
 void find_rl() {
     int x;
     printf("Enter the Roll Number of the student: ");
